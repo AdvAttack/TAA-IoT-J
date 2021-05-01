@@ -44,3 +44,16 @@ imgs_test, filenames = load_many_images('./data/Physical_world_attack/***')
 ```
 The **physical world attack** experiment will be implemented.
 
+## Citation
+
+When using this code, or the ideas of TAA, please cite the following paper
+<pre><code>@article{yang2020targeted,
+  title={Targeted Attention Attack on Deep Learning Models in Road Sign Recognition},
+  author={Yang, Xinghao and Liu, Weifeng and Zhang, Shengli and Liu, Wei and Tao, Dacheng},
+  journal={IEEE Internet of Things Journal},
+  year={2020},
+  publisher={IEEE}
+}
+
+}
+</code></pre>
