@@ -54,6 +54,4 @@ When using this code, or the ideas of TAA, please cite the following paper
   year={2020},
   publisher={IEEE}
 }
-
-}
 </code></pre>
