@@ -1,3 +1,10 @@
+# TAA-IoT-J
+
+This repository contains Python implementations of the IEEE IoT-J paper: Targeted Attention Attack on Deep Learning Models in Road Sign Recognition.
+<p align="center">
+<img src="https://github.com/AdvAttack/BU-MHS-AAAI21/blob/master/image/fig-flowchart.png" width=60% height=60%>
+</p>
+
 ## Build the running environment by the following commands:
 ```
 cd TAA_optimization
