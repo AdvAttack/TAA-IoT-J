@@ -1,4 +1,4 @@
-# TAA-IoT-J
+# TAA: Targeted Attention Attack on Deep Learning Models in Road Sign Recognition
 
 This repository contains Python implementations of the IEEE IoT-J paper: Targeted Attention Attack on Deep Learning Models in Road Sign Recognition.
 <p align="center">
@@ -55,3 +55,8 @@ When using this code, or the ideas of TAA, please cite the following paper
   publisher={IEEE}
 }
 </code></pre>
+
+
+## Contact
+
+Please contact Xinghao Yang or [Wei Liu](https://wei-research.github.io/) at firstname.lastname@uts.edu.au if you're interested to collaborate on this research!
