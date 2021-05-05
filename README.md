@@ -1,6 +1,9 @@
 # TAA: Targeted Attention Attack on Deep Learning Models in Road Sign Recognition
 
 This repository contains Python implementations of the IEEE IoT-J paper: Targeted Attention Attack on Deep Learning Models in Road Sign Recognition.
+
+A Preprint of the paper is at https://arxiv.org/abs/2010.04331.
+
 <p align="center">
 <img src="https://github.com/AdvAttack/TAA-IoT-J/blob/master/image/fig-framework.png" width=100% height=100%>
 </p>
